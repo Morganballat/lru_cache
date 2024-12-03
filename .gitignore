@@ -1,0 +1,17 @@
+# Ignorer les répertoires de compilation
+/target/
+
+# Ignorer les fichiers de configuration de l'éditeur
+**/*.rs.bk
+**/*.swp
+**/*.swo
+**/*.swn
+**/*.tmp
+
+# Ignorer les fichiers de débogage
+*.log
+
+# Ignorer les fichiers de sauvegarde
+*.bak
+*.old
+*.orig
